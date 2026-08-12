@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.miguelloaiza.miformacionctma.ReglasActividadTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2026-08-12T16:14:31.046Z" hostname="DESKTOP-1QSE18P" time="0.041">
+  <properties/>
+  <testcase name="busquedaIgnoraMayusculasYEspacios" classname="com.miguelloaiza.miformacionctma.ReglasActividadTest" time="0.015"/>
+  <testcase name="completadaNoApareceComoUrgente" classname="com.miguelloaiza.miformacionctma.ReglasActividadTest" time="0.009"/>
+  <testcase name="validacionDevuelveTodosLosErrores" classname="com.miguelloaiza.miformacionctma.ReglasActividadTest" time="0.002"/>
+  <testcase name="listaVaciaControlaPromedio" classname="com.miguelloaiza.miformacionctma.ReglasActividadTest" time="0.001"/>
+  <testcase name="actividadVencida" classname="com.miguelloaiza.miformacionctma.ReglasActividadTest" time="0.0"/>
+  <testcase name="retoOrdenaVencidasPrimero" classname="com.miguelloaiza.miformacionctma.ReglasActividadTest" time="0.002"/>
+  <testcase name="resumenCalculaPromedioCompletadasYUrgentes" classname="com.miguelloaiza.miformacionctma.ReglasActividadTest" time="0.002"/>
+  <testcase name="nombreVisibleUsaAliasCuandoEsNull" classname="com.miguelloaiza.miformacionctma.ReglasActividadTest" time="0.0"/>
+  <testcase name="tituloVacioDevuelveError" classname="com.miguelloaiza.miformacionctma.ReglasActividadTest" time="0.001"/>
+  <testcase name="resumenProgresosCalculaPromedioYCompletadas" classname="com.miguelloaiza.miformacionctma.ReglasActividadTest" time="0.0"/>
+  <testcase name="actividadCompletaNoEsVencida" classname="com.miguelloaiza.miformacionctma.ReglasActividadTest" time="0.0"/>
+  <testcase name="progreso120DevuelveError" classname="com.miguelloaiza.miformacionctma.ReglasActividadTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
