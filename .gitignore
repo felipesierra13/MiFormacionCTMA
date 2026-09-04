@@ -1,21 +1,6 @@
 # Android Studio
 .idea/
 *.iml
-
-# Gradle
 .gradle/
 build/
-**/build/
-
-# APK
-*.apk
-
-# Local configuration
-local.properties
-
-# Kotlin
-.kotlin/
-
-# OS
-.DS_Store
-Thumbs.db
+app/build/
